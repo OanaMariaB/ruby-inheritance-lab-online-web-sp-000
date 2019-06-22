@@ -7,4 +7,5 @@ KNOWLEDGE = ["a String is a type of data in Ruby", "programming is hard, but it'
 def teach
   KNOWLEDGE
 end
+
 end
