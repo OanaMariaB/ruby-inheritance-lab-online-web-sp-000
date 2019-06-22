@@ -7,6 +7,7 @@ KNOWLEDGE = ["a String is a type of data in Ruby", "programming is hard, but it'
 def teach
   @knowledge.collect do |knowlwdge|
     knowlege.teach == self
+  end
 end
 
 end
